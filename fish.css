@@ -1,0 +1,29 @@
+.header {
+background-color: mediumaquamarine;
+padding: 20px;
+padding-bottom: 0;
+margin-bottom: 0;
+}
+
+.main-content {
+display: flex;
+}
+
+.main {
+padding: 20px;
+background-color: lightcyan;
+}
+
+.side-nav {
+padding: 20px;
+background-color: mistyrose;
+margin-right: 20px;
+}
+
+body {
+margin: 0;
+}
+
+.footer {
+background-color: royalblue;
+}
